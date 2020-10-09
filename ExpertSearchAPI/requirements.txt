@@ -1,0 +1,9 @@
+pandas==0.25.1
+numpy==1.18.4
+scikit-learn
+scipy==1.4.1
+more-itertools==5.0.0
+rdflib==4.2.2
+fastapi==0.52.0
+uvicorn
+sentence-transformers==0.2.5.1
