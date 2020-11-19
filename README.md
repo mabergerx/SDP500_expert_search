@@ -27,7 +27,20 @@ The accompanying datasets are published and can be accessed at https://doi.org/1
 
 Please cite the following paper when using this code:
 ```
-**TO APPEAR HERE SOON AFTER THE PUBLICATION**
+@inproceedings{berger-etal-2020-effective,
+    title = "Effective distributed representations for academic expert search",
+    author = "Berger, Mark  and
+      Zavrel, Jakub  and
+      Groth, Paul",
+    booktitle = "Proceedings of the First Workshop on Scholarly Document Processing",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.sdp-1.7",
+    pages = "56--71",
+    abstract = "Expert search aims to find and rank experts based on a user{'}s query. In academia, retrieving experts is an efficient way to navigate through a large amount of academic knowledge. Here, we study how different distributed representations of academic papers (i.e. embeddings) impact academic expert retrieval. We use the Microsoft Academic Graph dataset and experiment with different configurations of a document-centric voting model for retrieval. In particular, we explore the impact of the use of contextualized embeddings on search performance. We also present results for paper embeddings that incorporate citation information through retrofitting. Additionally, experiments are conducted using different techniques for assigning author weights based on author order. We observe that using contextual embeddings produced by a transformer model trained for sentence similarity tasks produces the most effective paper representations for document-centric expert retrieval. However, retrofitting the paper embeddings and using elaborate author contribution weighting strategies did not improve retrieval performance.",
+}
 ```
 
 
