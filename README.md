@@ -1,6 +1,8 @@
 # Effective Distributed Representations for Academic Expert Search
 
-This repository contains (partial) code that was used in conducting research for the "Effective Distributed Representations for Academic Expert Search" paper to appear at the [SDP 2020 workshop @ EMNLP 20202](https://ornlcda.github.io/SDProc/) by Mark Berger, Jakub Zavrel and Paul Groth.
+This repository contains (partial) code that was used in conducting research for the "Effective Distributed Representations for Academic Expert Search" paper that appeared at the [SDP 2020 workshop @ EMNLP 20202](https://ornlcda.github.io/SDProc/) by Mark Berger, Jakub Zavrel and Paul Groth.
+
+Link to the paper: [Effective distributed representations for academic expert search](https://www.aclweb.org/anthology/2020.sdp-1.7/)
 
 
 ## Disclaimer
